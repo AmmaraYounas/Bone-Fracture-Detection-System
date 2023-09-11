@@ -1,0 +1,4 @@
+Major Fracture
+Minor Fracture
+Dislocation
+No Fracture
